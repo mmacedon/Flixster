@@ -1,8 +1,5 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
 ---
 
 ## Flix Part 1
@@ -23,8 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
+Video Source: https://github.com/mmacedon/Flixster/blob/master/20200419_142953_720P.mp4
+App was developed and tested on physical device, so a screen recording is used instead. 
 ### Notes
 Describe any challenges encountered while building the app.
   There are many different components that are required for this project such as adapters and layout managers. It is difficult to keep them separate and recall which component served which purpose.
